@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>618010453283-jir3dnrv0drmucst245mma89idvsnrjh.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.618010453283-jir3dnrv0drmucst245mma89idvsnrjh</string>
+	<key>API_KEY</key>
+	<string>AIzaSyD40iRrxD_4XlLHYtPMd0WrzJtdI5n8m8o</string>
+	<key>GCM_SENDER_ID</key>
+	<string>618010453283</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>ADcom.icloud.la.luce.ymt0326.Swift5FirebaseBasic1</string>
+	<key>PROJECT_ID</key>
+	<string>swift5firebasebasic1-5ee82</string>
+	<key>STORAGE_BUCKET</key>
+	<string>swift5firebasebasic1-5ee82.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:618010453283:ios:2c89b8c8d3b8bab2</string>
+	<key>DATABASE_URL</key>
+	<string>https://swift5firebasebasic1-5ee82.firebaseio.com</string>
+</dict>
+</plist>
